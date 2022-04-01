@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IMayr DE Knowledge Base – IMayr Framework</title>
+    <link>/site3/de/docs/overview/framework/</link>
+    <description>Recent content in IMayr Framework on IMayr DE Knowledge Base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="/site3/de/docs/overview/framework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
