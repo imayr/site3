@@ -26,18 +26,6 @@
                 href="/site3/en/docs/overview/"
                 />
   </url><url>
-    <loc>/site3/en/docs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/site3/de/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/site3/en/docs/"
-                />
-  </url><url>
     <loc>/site3/en/docs/quickstart/</loc>
     <xhtml:link
                 rel="alternate"
@@ -72,6 +60,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="/site3/en/"
+                />
+  </url><url>
+    <loc>/site3/en/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/site3/de/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/site3/en/docs/"
                 />
   </url><url>
     <loc>/site3/en/tags/</loc>

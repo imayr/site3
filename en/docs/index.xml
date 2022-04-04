@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IMayr EN Knowledge Base – Documentation</title>
+    <title>IMayr EN Knowledge Base – Knowledge Base</title>
     <link>/site3/en/docs/</link>
-    <description>Recent content in Documentation on IMayr EN Knowledge Base</description>
+    <description>Recent content in Knowledge Base on IMayr EN Knowledge Base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
